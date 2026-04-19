@@ -1,5 +1,5 @@
 <div align="Center">
-<img width="600" src="https://github.com/Ryngel/Ryngel/blob/d850f4d4dc8dbd6b76d492e0b535df4ddcb66bf2/cenisa.jpg" />
+<img width="600" src="https://raw.githubusercontent.com/Ryngel/Ryngel/d850f4d4dc8dbd6b76d492e0b535df4ddcb66bf2/cenisa.jpg" />
 
 <div align="center">
 
