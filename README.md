@@ -1,5 +1,5 @@
 <div align="Center">
-<img width="600" src=["https://raw.githubusercontent.com/Ryngel/Readmi.md/ce149f621dcada54a1cd3a414176e26b142b1437/cenisa.jpg" />
+<img width="600" src="https://raw.githubusercontent.com/Ryngel/Readmi.md/ce149f621dcada54a1cd3a414176e26b142b1437/cenisa.jpg" />
 
 <div align="center">
 
